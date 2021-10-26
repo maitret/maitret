@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Maitret's GitHub stats](https://github-readme-stats.vercel.app/api?username=maitret&show_icons=true&theme=dark)](https://github.com/maitret/maitret)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maitret&show_icons=true&theme=dark)](https://github.com/maitret/maitret)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maitret)](https://github.com/maitret/maitret)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=maitret)](https://github.com/maitret/maitret)
