@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola que tal :D 👋
 
 <!--
 **maitret/maitret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Maitret's GitHub stats](https://github-readme-stats.vercel.app/api?username=maitret)](https://github.com/maitret/maitret)
+[![Maitret's GitHub stats](https://github-readme-stats.vercel.app/api?username=maitret&show_icons=true&theme=dark)](https://github.com/maitret/maitret)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maitret)](https://github.com/maitret/maitret)
